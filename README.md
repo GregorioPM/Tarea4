@@ -49,7 +49,7 @@
 ## Video Explicativo (Link de youtube)
 
 ## INTEGRANTES
-- jhonatan Andres Beltran Caceres 1151561
-- Jose Gregorio Perez Manosalvo 1151559
+- Jhonatan Andres Beltran Caceres 1151561
+- Jose Gregorio Perez Manosalva 1151559
 - Yefferson
 
