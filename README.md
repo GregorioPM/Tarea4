@@ -47,6 +47,7 @@
 3. ***Por ultimo,  correr la aplicación*** : **npm run dev**
 
 ## INTEGRANTES
--jhonatan Andres Beltran Caceres 1151561
--Jose Gregorio Perez Manosalvo 1151559
+- jhonatan Andres Beltran Caceres 1151561
+- Jose Gregorio Perez Manosalvo 1151559
+- Yefferson
 
