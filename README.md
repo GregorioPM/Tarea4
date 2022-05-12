@@ -40,3 +40,8 @@
 # CONCLUSIÓN
 - el estilo arquitectónico es uno de los más fácil de implementar, lo que lo hace unos de los patrones más versátiles y más ampliamente utilizados, lo que lo convierte en uno de los estilos arquitectónicos de referencia para muchas aplicaciones. Además, es un estilo que no representa mucha carga de mantenimiento para las empresas, lo que hace que pueda funcionar durante mucho tiempo de forma interrumpida.
 - Si eres un arquitecto novato y quieres comenzar a diseñar arquitecturas de software, esta puede ser un buen inicio, pues es muy clara, fácil de diseñar y explicar en un comité de arquitectura.
+
+#PASOS PARA EJECUTAR EL PROYECTO
+1. Tener instalado Node.js 
+2. Correr npm  i para descargar las dependencias especificadas en el package.json : **npm i**
+3. Por ultimo,  correr la aplicación : **npm run dev**
