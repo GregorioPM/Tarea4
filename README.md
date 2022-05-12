@@ -43,14 +43,17 @@
 
 # PASOS PARA EJECUTAR EL PROYECTO
 1. ***Tener instalado Node.js*** 
-2. ***Correr npm  i para descargar las dependencias especificadas en el package.json*** : **npm i**
-3. ***Por ultimo,  correr la aplicación*** : **npm run dev**
-4. ***Datos del archivo .env*** :
+
+2. ***Datos del archivo .env*** :
 - PORT=4000
 - NAME_DB=sql10491679
 - USER_DB=sql10491679
 - PASS_DB=yQ7Kp8DaVM
 - HOST_DB=sql10.freemysqlhosting.net
+
+3. ***Correr npm  i para descargar las dependencias especificadas en el package.json*** : **npm i**
+4. ***Por ultimo,  correr la aplicación*** : **npm run dev**
+
 
 ## Video Explicativo (click! en la imagen)
 [![Alt text](https://img.youtube.com/vi/fiNYslap2_c/0.jpg)](https://www.youtube.com/watch?v=fiNYslap2_c)
