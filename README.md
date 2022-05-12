@@ -46,7 +46,7 @@
 2. ***Correr npm  i para descargar las dependencias especificadas en el package.json*** : **npm i**
 3. ***Por ultimo,  correr la aplicación*** : **npm run dev**
 
-## Video Explicativo (Link de youtube)
+## Video Explicativo (CLICK! EN LA IMAGEN)
 [![Alt text](https://img.youtube.com/vi/fiNYslap2_c/0.jpg)](https://www.youtube.com/watch?v=fiNYslap2_c)
 
 ## INTEGRANTES
