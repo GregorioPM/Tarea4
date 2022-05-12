@@ -34,7 +34,7 @@
 2.	**Fácil de desarrollar:** Este estilo arquitectónico es especialmente fácil de implementar, además de que es muy conocido y una gran mayoría de las aplicaciones la utilizan.
 3.	**Fácil de probar:** Debido a que la aplicación construida por capas, es posible ir probando de forma individual cada capa, lo que permite probar por separada cada capa.
 4.	**Fácil de mantener:** Debido a que cada capa hace una tarea muy específica, es fácil detectar el origen de un bug para corregirlo, o simplemente se puede identificar donde se debe aplicar un cambio.
-5.	**Seguridad:** La separación de capas permite el aislamiento de los servidores en subredes diferentes, lo que hace más difícil realizar ataques.**
+5.	**Seguridad:** La separación de capas permite el aislamiento de los servidores en subredes diferentes, lo que hace más difícil realizar ataques.
 
 
 # CONCLUSIÓN
@@ -42,6 +42,11 @@
 - Si eres un arquitecto novato y quieres comenzar a diseñar arquitecturas de software, esta puede ser un buen inicio, pues es muy clara, fácil de diseñar y explicar en un comité de arquitectura.
 
 #PASOS PARA EJECUTAR EL PROYECTO
-1. Tener instalado Node.js 
-2. Correr npm  i para descargar las dependencias especificadas en el package.json : **npm i**
-3. Por ultimo,  correr la aplicación : **npm run dev**
+1. ***Tener instalado Node.js*** 
+2. ***Correr npm  i para descargar las dependencias especificadas en el package.json*** : **npm i**
+3. ***Por ultimo,  correr la aplicación*** : **npm run dev**
+
+## INTEGRANTES
+-jhonatan Andres Beltran Caceres 1151561
+-Jose Gregorio Perez Manosalvo 1151559
+
