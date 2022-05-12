@@ -55,7 +55,7 @@
 4. Por ultimo,  correr la aplicación: **npm run dev**
 
 
-## Video Explicativo (click! en la imagen)
+## Video Explicativo (Click! en la imagen)
 [![Alt text](https://img.youtube.com/vi/fiNYslap2_c/0.jpg)](https://www.youtube.com/watch?v=fiNYslap2_c)
 
 ## INTEGRANTES
