@@ -51,5 +51,5 @@
 ## INTEGRANTES
 - Jhonatan Andres Beltran Caceres 1151561
 - Jose Gregorio Perez Manosalva 1151559
-- Yefferson
+- Yeferson Daniel Ascanio Rodríguez 1151507
 
