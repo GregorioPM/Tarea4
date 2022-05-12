@@ -62,5 +62,5 @@
 - Jhonatan Andres Beltran Caceres 1151561
 - Jose Gregorio Perez Manosalva 1151559
 - Yeferson Daniel Ascanio Rodríguez 1151507
-**Arquitectura de software**
+- **Arquitectura de software**
 
